@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Catálogo de Filmes</string>
+    <string name="title_item_detail">Detalhes do filme</string>
+    <string name="title_cadastrar_filme">Cadastrar novo filme</string>
+
+    <string name="lblTitulo">Título</string>
+    <string name="lblSubtitulo">Subtítulo</string>
+    <string name="lblGenero">Gênero</string>
+    <string name="lblAvaliacao">Avaliação</string>
+
+    <string name="salvar">Salvar</string>
+    <string name="ok">OK</string>
+
+    <string name="prompt_titulo">Título do filme</string>
+    <string name="prompt_subtitulo">Subtítulo</string>
+    <string name="prompt_genero">Informe o gênero</string>
+    <string name="lblSim">Sim</string>
+    <string name="lblNao">Não</string>
+
+</resources>
